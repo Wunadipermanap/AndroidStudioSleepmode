@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/group_1"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="31dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="76dp"
+        android:layout_height="89dp"
+        app:srcCompat="@drawable/group_3"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="116dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="267dp"
+        android:layout_height="175dp"
+        app:srcCompat="@drawable/whatsapp_image_2022_10_17_at_00_01_30"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="220dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sholawat"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="408dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="266dp"
+        android:layout_height="166dp"
+        app:srcCompat="@drawable/images"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="469dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Murottal"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="652dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
